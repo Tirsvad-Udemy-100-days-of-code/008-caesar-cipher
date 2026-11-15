@@ -9,8 +9,14 @@ description = "A beginner-friendly Caesar cipher encoder/decoder (Udemy 100 Days
 readme = "README.md"
 requires-python = ">=3.13"
 license = "AGPL-3.0-or-later"
+authors = [{ name = "Jens Tirsvad Nielsen" }]
 license-files = ["LICENSE"]
 dependencies = []
+
+[project.urls]
+Repository = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/008-caesar-cipher"
+Documentation = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/008-caesar-cipher/wiki"
+"Issue tracker" = "https://git.tirsystem.com/Tirsvad-Udemy-100-days-of-code/008-caesar-cipher/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
