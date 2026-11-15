@@ -177,3 +177,6 @@ cython_debug/
 
 # Doxygen output
 docs/doxygen/
+
+# AI prompt log (the repository is public)
+/docs/ai-prompts/

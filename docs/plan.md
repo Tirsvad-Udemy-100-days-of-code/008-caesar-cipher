@@ -1,7 +1,7 @@
 # Plan: Caesar Cipher project (Udemy Day 8)
 
 ## Context
-Repo `008-caesar_cipher` (remote: git.tirsystem.com/Tirsvad-Udemy-100_days_of_code) holds only LICENSE (AGPL-3), a Python `.gitignore` (already ignores `.env`, `.venv`), a stub README and an untracked `.env` (GITEA_TOKEN, GITHUB_PAT, GITHUB_USER). Goal: build the Caesar cipher in the three course parts below, set up the repo metadata, and track steps via PR branches. Files only; **no commit/push**.
+Repo `008-caesar-cipher` (remote: git.tirsystem.com/Tirsvad-Udemy-100_days_of_code) holds only LICENSE (AGPL-3), a Python `.gitignore` (already ignores `.env`, `.venv`), a stub README and an untracked `.env` (GITEA_TOKEN, GITHUB_PAT, GITHUB_USER). Goal: build the Caesar cipher in the three course parts below, set up the repo metadata, and track steps via PR branches. Files only; **no commit/push**.
 
 ## Files to create (inside the repo root)
 - `pyproject.toml` – setuptools backend, `requires-python = ">=3.13"`, no runtime deps, `[project.scripts] caesar-cipher = "caesar_cipher.main:main"`, optional-deps `dev = ["pytest"]`, `[tool.pytest.ini_options] pythonpath=["src"], testpaths=["tests"]`, src layout.
