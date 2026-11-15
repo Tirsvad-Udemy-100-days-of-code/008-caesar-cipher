@@ -9,7 +9,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; created with the review records of the baseline (autonomous, not independent) | pending |
+| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; created with the review records of the baseline (autonomous, not independent) | [a619f0c] |
 
 ---
 
@@ -58,3 +58,4 @@ No view, design or test-plan artifact exists yet (the scope excludes them), so t
 [RC-003]: ./reviews/rc-003-project-plan.md
 [RC-004]: ./reviews/rc-004-milestone-001.md
 [RC-005]: ./reviews/rc-005-wiki.md
+[a619f0c]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/008-caesar-cipher/commit/a619f0c9d25a6d5bd09e32372c4a240baaf2fa0d

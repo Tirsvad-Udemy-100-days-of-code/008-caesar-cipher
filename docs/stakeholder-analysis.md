@@ -11,7 +11,7 @@
 ## Version History
 | Date | Status | Author | Reviewer | Change | Commit |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | pending |
+| 2026-11-15 | Accepted | Jens Tirsvad Nielsen | AI as stand-in for S02 | Initial version; accepted with the Go verdict of the review record (autonomous, not independent) | [a619f0c] |
 
 ---
 
@@ -79,3 +79,4 @@ Accepted on the `Go` verdict of the review record of this document, by the AI as
 
 [BC-001]: ./business-case.md
 [MIL-001]: ./milestones/mil-001-baseline.md
+[a619f0c]: https://git.tirsystem.com/Tirsvad-Udemy-100_days_of_code/008-caesar-cipher/commit/a619f0c9d25a6d5bd09e32372c4a240baaf2fa0d
